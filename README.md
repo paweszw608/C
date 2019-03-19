@@ -1,1 +1,1 @@
-Program that checks in which lines particlar words appears
+Program that checks in which lines particlar words appear
